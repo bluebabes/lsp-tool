@@ -1,6 +1,10 @@
 ## 老司机工具
 
-商店审核问题，配置相关链接不能放，这里放一些常用配置
+商店审核问题，无法上商店
+
+下载地址：[releases](https://github.com/bluebabes/lsp-tool/releases)
+
+配置相关链接不能放，这里放一些常用配置
 
 ```
 [
