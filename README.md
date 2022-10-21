@@ -9,6 +9,8 @@ zip下载地址：[releases](https://github.com/bluebabes/lsp-tool/releases)
 
 商店审核配置无法包含敏感内容，下面是一些敏感配置
 
+右键搜索配置，其中 %s 是特殊制定符号，代表需要替换的文本
+
 ```
 [
       {
