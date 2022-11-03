@@ -42,6 +42,16 @@ zip下载地址：[releases](https://github.com/bluebabes/lsp-tool/releases)
         "action": "yflc-decode",
         "open": false
       },
+      
+        {
+          "name": "价值观加密",
+          "action": "Jzg-encode",
+          "open": false
+        }, {
+          "name": "价值观解密",
+          "action": "Jzg-decode",
+          "open": false
+        },
       {
         "name": "Google",
         "action": "https://www.google.com/search?q=%s"
