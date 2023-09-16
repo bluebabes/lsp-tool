@@ -4,6 +4,8 @@
 
 zip下载地址：[releases](https://github.com/bluebabes/lsp-tool/releases)
 
+<img width="429" alt="image" src="https://github.com/bluebabes/lsp-tool/assets/3329261/b49305a0-fc22-4866-ab54-bbe1fef8f35e">
+
 
 ### 配置
 
