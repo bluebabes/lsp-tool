@@ -101,6 +101,10 @@ zip下载地址：[releases](https://github.com/bluebabes/lsp-tool/releases)
   {
     "action": "https://u3c3.com/?p=2&search2=fjeofakansriji&search=%s",
     "name": "u3c3"
+  },
+    {
+    "name": "baidupan",
+    "action": "autodownload"
   }
 ]
 
