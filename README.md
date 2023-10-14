@@ -75,6 +75,10 @@ zip下载地址：[releases](https://github.com/bluebabes/lsp-tool/releases)
     "name": "javbus"
   },
   {
+    "action": "http://www.javlibrary.com/cn/vl_searchbyid.php?keyword=%s",
+    "name": "javlibrary"
+  },
+  {
     "action": "https://clm307.buzz/search-%s-0-1-1.html",
     "name": "磁力猫"
   },
