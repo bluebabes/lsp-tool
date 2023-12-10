@@ -27,8 +27,7 @@ zip下载地址：[releases](https://github.com/bluebabes/lsp-tool/releases)
 右键搜索配置，其中 %s 是特殊制定符号，代表需要替换的文本
 
 ```
-[
-  {
+[{
     "action": "http://pan.baidu.com/s/%s",
     "name": "百度云地址补全"
   },
@@ -48,13 +47,13 @@ zip下载地址：[releases](https://github.com/bluebabes/lsp-tool/releases)
     "open": false
   },
   {
-    "action": "Jzg-encode",
     "name": "价值观加密",
+    "action": "Jzg-encode",
     "open": false
   },
   {
-    "action": "Jzg-decode",
     "name": "价值观解密",
+    "action": "Jzg-decode",
     "open": false
   },
   {
@@ -88,10 +87,6 @@ zip下载地址：[releases](https://github.com/bluebabes/lsp-tool/releases)
     "name": "javbus"
   },
   {
-    "action": "http://www.javlibrary.com/cn/vl_searchbyid.php?keyword=%s",
-    "name": "javlibrary"
-  },
-  {
     "action": "https://clm307.buzz/search-%s-0-1-1.html",
     "name": "磁力猫"
   },
@@ -108,7 +103,7 @@ zip下载地址：[releases](https://github.com/bluebabes/lsp-tool/releases)
     "name": "磁力bt4g"
   },
   {
-    "action": "https://rarbg.to/torrents.php?category=2;4&search=%s&order=size&by=DESC",
+    "action": "https://rarbgproxy.to/torrents.php?search=%s",
     "name": "rarbg"
   },
   {
@@ -119,15 +114,16 @@ zip下载地址：[releases](https://github.com/bluebabes/lsp-tool/releases)
     "action": "https://u3c3.com/?p=2&search2=fjeofakansriji&search=%s",
     "name": "u3c3"
   },
-    {
+  {
     "name": "baidupan",
-    "action": "autodownload"
+    "action": "autodownload",
+    "desc": "自动下载"
   },
   {
     "name": "倒计时",
     "action": "countdown",
     "time": "30",
-    "on": false
+    "on": true
   }
 ]
 
