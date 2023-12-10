@@ -6,6 +6,19 @@ zip下载地址：[releases](https://github.com/bluebabes/lsp-tool/releases)
 
 <img width="429" alt="image" src="https://github.com/bluebabes/lsp-tool/assets/3329261/b49305a0-fc22-4866-ab54-bbe1fef8f35e">
 
+### 功能
+
+1. 百度云地址补全
+2. 磁力链接补全
+3. 百家姓加密
+4. 百家姓解密
+5. 价值观加密
+6. 价值观解密
+7. 与佛论禅加密
+8. 与佛论禅解密
+9. 右键自定义搜索功能（google/baidu/jav/磁力）
+10. 百度盘自动下载（自动下载）
+11. 定时器功能（倒计时提醒,默认30秒）
 
 ### 配置
 
@@ -109,6 +122,12 @@ zip下载地址：[releases](https://github.com/bluebabes/lsp-tool/releases)
     {
     "name": "baidupan",
     "action": "autodownload"
+  },
+  {
+    "name": "倒计时",
+    "action": "countdown",
+    "time": "30",
+    "on": false
   }
 ]
 
