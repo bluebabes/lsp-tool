@@ -123,7 +123,7 @@ zip下载地址：[releases](https://github.com/bluebabes/lsp-tool/releases)
     "name": "倒计时",
     "action": "countdown",
     "time": "30",
-    "on": true
+    "on": false
   }
 ]
 
